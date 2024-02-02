@@ -1,6 +1,5 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRuam9rdG44emM2aHR0czE0MmN4d3Z1MWh1am5hdWoyMzhzdDQ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"
-        width="175" />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 <br/>
 <div align="center">
