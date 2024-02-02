@@ -14,5 +14,3 @@
     </a>
 </div>
 <br/>
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
