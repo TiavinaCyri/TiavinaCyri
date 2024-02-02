@@ -12,4 +12,4 @@
             alt="Website" />
     </a>
 </div>
-![](https://komarev.com/ghpvc/?username=TiavinaCyri)
+<img src="https://komarev.com/ghpvc/?username=TiavinaCyri&style=flat-square&color=blue" alt=""/>
