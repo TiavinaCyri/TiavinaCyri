@@ -13,3 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiavinaCyri&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
 </div>
+<br/>
+<div align="center">
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+</div>
