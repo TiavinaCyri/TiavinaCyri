@@ -3,7 +3,6 @@
         width="175" />
 </div>
 
-### :fire: My Stats :
 <div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TiavinaCyri&theme=react&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TiavinaCyri&theme=react&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
