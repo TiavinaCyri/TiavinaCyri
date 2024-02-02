@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=d41a0c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&redirect=true)
 </div>
 <br/>
 <div align="center">
