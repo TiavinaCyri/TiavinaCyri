@@ -4,4 +4,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TiavinaCyri&theme=react&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TiavinaCyri&theme=react&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+</div>
