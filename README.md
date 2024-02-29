@@ -1,6 +1,9 @@
 &nbsp;<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d41a0c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&redirect=true)
 </div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=IceCold&count=5">
+</p>
 <br/>
 <div align="center">
     <a href="https://git.io/streak-stats">
