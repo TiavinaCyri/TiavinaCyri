@@ -1,5 +1,7 @@
-&nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d41a0c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tgakw04z36cm8wsl7fvkayvb7&redirect=true)
+<div align="center">
+  <a href="https://fullmetalalchemist.fandom.com/fr/wiki/Alchimie#:~:text=Échange%20équivalent,-La%20pratique%20mystique&text="L%27humanité%20ne%20peut%20rien,une%20autre%20de%20même%20valeur." target="_blank">
+    🤘
+  </a>
 </div>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=tgakw04z36cm8wsl7fvkayvb7&count=4">
