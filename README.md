@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tgakw04z36cm8wsl7fvkayvb7&count=4)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=tgakw04z36cm8wsl7fvkayvb7&count=4">
 
 <br/>
 
